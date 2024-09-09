@@ -9,8 +9,8 @@ from util import createDocsRequests, createDefinitionsRequests
 SCOPES = ['https://www.googleapis.com/auth/documents']
 
 # The ID of a sample presentation.
-DOCUMENT_ID = "1Wz-M7_m6gI4PsM8hTBki-jMvP2JBo4SJax1ebHkltSg"
-DEFINITION_DOC_ID = "1J6k3E_MijdinxlvD3yL6ts2dIDG9-wVywHiAqtYzLn0"
+DOCUMENT_ID = "ENTER_DOC_ID"
+DEFINITION_DOC_ID = "ENTER_DOC_ID"
 
 def updateDocs(leaders: list): 
     creds = None
