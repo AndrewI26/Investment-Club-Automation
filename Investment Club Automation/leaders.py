@@ -1,8 +1,8 @@
 from util import *
 from time import sleep
 
-URL = "https://www.howthemarketworks.com/login"
-USERNAME, PASSWORD = "AndrewIammancini44", "Iammandr89!"
+URL = "ENTER_URL"
+USERNAME, PASSWORD = "USER", "PASSWORD"
 CONTEST_ID = 284570
 
 def getLeaders():
